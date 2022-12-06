@@ -2951,7 +2951,6 @@ component-emitter@^1.2.1:
 
 "components@link:./src/components":
   version "0.0.0"
-  uid ""
 
 compose-function@3.0.3:
   version "3.0.3"
@@ -3478,9 +3477,9 @@ decamelize@^2.0.0:
     xregexp "4.0.0"
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
-  integrity sha1-6zkTMzRYd1y4TNGh+uBiEGu4dUU=
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
+  integrity sha512-FqUYQ+8o158GyGTrMFJms9qh3CqTKvAqgqsTnkLI8sKu0028orqBhxNMFkFen0zGyg6epACD32pjVk58ngIErQ==
 
 deep-equal@^1.0.1:
   version "1.1.1"
@@ -6199,7 +6198,6 @@ just-curry-it@^3.1.0:
 
 "kernel@link:./src/kernel":
   version "0.0.0"
-  uid ""
 
 killable@^1.0.0:
   version "1.0.1"
@@ -9417,7 +9415,6 @@ stealthy-require@^1.1.1:
 
 "store@link:./src/store":
   version "0.0.0"
-  uid ""
 
 stream-browserify@^2.0.1:
   version "2.0.2"
